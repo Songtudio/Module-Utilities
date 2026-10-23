@@ -1,0 +1,8 @@
+{
+  "name": "Song.Unity.Utilities",
+  "rootNamespace": "Utility",
+  "references": [
+    "UniTask"
+  ],
+  "autoReferenced": true
+}
